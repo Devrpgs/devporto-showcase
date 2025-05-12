@@ -102,9 +102,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## 📞 Contato
 
 *   **Problemas ou Sugestões:** Abra uma [Issue](https://github.com/Devrpgs/devporto-showcase.git) neste repositório.
-*   **Email:** [seu.email@exemplo.com](mailto:contato@deporto.dev)
-*   **Website/Portfólio:** [https://seu-portfolio.com](https://devporto.dev)
-*   **(Opcional) LinkedIn:** [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/robsonpgs)
+*   **Email:** [contato@devporto.dev](mailto:contato@deporto.dev)
+*   **Website/Portfólio:** [https://devporto.dev](https://devporto.dev)
+*   **(Opcional) LinkedIn:** [https://linkedin.com/in/robsonpgs](https://linkedin.com/in/robsonpgs)
 
 ## 📄 Licença
 
